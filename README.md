@@ -1,6 +1,11 @@
-## Fullstack software developer
-### Angular/React + Django/Node
+## 5+ Fullstack software developer 
+Worked with Angular for 2 years, but now I'm currently working with React + Node + Django fulltime.
 
+Adding Java as backend stack to my portfolio as well (because it is challenging, yes yes).
+
+Also, I like to play with C# and Unity creating nonsense games.
+
+Feel free to contact me. I'm always open to new tech friends. A good work network is worth millions.
 
 <br/>
 
