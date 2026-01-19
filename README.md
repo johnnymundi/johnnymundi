@@ -1,4 +1,4 @@
-## 5+ Fullstack software developer 
+## 4+ Fullstack software developer 
 Worked with Angular for 2 years, but now I'm currently working with React + Node + Django fulltime.
 
 Adding Java as backend stack to my portfolio as well (because it is challenging, yes yes).
