@@ -1,10 +1,6 @@
 ## Almost 4 years as a Fullstack software developer 
 Worked with Angular for 2 years, but now I'm currently working with React + Node + Django fulltime.
 
-Currently working with React Vite and Django
-
-Adding Java as backend stack to my portfolio as well (because it is challenging, yes yes).
-
 Feel free to contact me. I'm always open to new tech friends. A good work network is worth millions.
 
 <br/>
