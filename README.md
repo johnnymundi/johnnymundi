@@ -1,5 +1,6 @@
-## Almost 4 years as a Fullstack software developer 
-Worked with Angular for 2 years, but now I'm currently working with React + Node + Django fulltime.
+## 4+ years as a Fullstack Software Developer 
+
+I have experience with Angular (2+) and Node (4+), but I'm currently workint with React + Django fulltime.
 
 Feel free to contact me. I'm always open to new tech friends. A good work network is worth millions.
 
