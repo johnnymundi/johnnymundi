@@ -1,8 +1,12 @@
 ## 4+ years as a Fullstack Software Developer 
 
-I have experience with Angular (2+) and Node (4+), but I'm currently workint with React + Django fulltime.
+Angular (2+), Node (4+), Currently working with React + Django fulltime (4+ years on this).
 
-Feel free to contact me. I'm always open to new tech friends. A good work network is worth millions.
+PhD in Genetics where I worked with Bionformatics with Python + Perl to identify olfactory genes in Amphibians.
+
+Massive geek and a gamer (No "ism" whatsoever).
+
+Feel free to contact me. I'm always open to new tech friends. A good work network is worth millions and two heads work better than one.
 
 <br/>
 
@@ -24,16 +28,6 @@ Feel free to contact me. I'm always open to new tech friends. A good work networ
 
 <br/>
 <br/>
-
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnymundi&show_icons=true&theme=dracula)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=johnnymundi&repo=friendly_pet)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnymundi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br/>
